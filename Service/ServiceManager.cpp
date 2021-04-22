@@ -57,7 +57,7 @@ namespace ServiceLib::ServiceManagement
 
 		DeleteService(hService);
 		CloseServiceHandle(hService);
-		CloseServiceHandle(hSCManager);
+		
 		
 		return 0;
 	}
