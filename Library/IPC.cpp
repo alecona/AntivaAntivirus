@@ -1,3 +1,6 @@
+// Библиотека для обмена сообщениями между сервисом и клиентом
+
+
 #include "IPC.h"
 #include <utility>
 #include <limits.h>

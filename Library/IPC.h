@@ -1,3 +1,5 @@
+// Библиотека для обмена сообщениями между сервисом и клиентом
+
 #pragma once
 #include <vector>
 #include <Windows.h>
